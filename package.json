@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-test-helpers",
+  "version": "0.1.0",
+  "description": "Test helpers for Mongoose",
+  "license" : "BSD",
+  "main": "index.js",
+  "homepage": "https://github.com/bodylabs/mongoose-test-helpers",
+  "bugs": "https://github.com/bodylabs/mongoose-test-helpers/issues",
+  "author": "Body Labs <paul.melnikow@bodylabs.com>",
+  "keywords": ["mongoose"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bodylabs/mongoose-test-helpers.git"
+  },
+  "dependencies": {
+    "async": "~1.4.2"
+  },
+  "peerDependencies": {
+    "mongoose": "*",
+    "should": "*"
+  }
+}
